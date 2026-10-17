@@ -17,3 +17,4 @@ Every push to `main` applies pending migrations, then builds and deploys.
 
 ## Schema changes
 Edit `src/db/schema.ts` → `npm run db:generate` → commit → push.
+
